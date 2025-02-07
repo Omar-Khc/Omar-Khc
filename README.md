@@ -1,4 +1,4 @@
-👋 Hi, I'm Omar K. AbuBerayo 
+#👋 Hi, I'm Omar K. AbuBerayo 
 
 💻 **Software Engineering | ASP.NET Core Spetialist | C#**
 
